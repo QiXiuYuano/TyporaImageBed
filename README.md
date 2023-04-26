@@ -1,2 +1,2 @@
 # TyporaImageBed
-Typora图床
+Typora文件图床
